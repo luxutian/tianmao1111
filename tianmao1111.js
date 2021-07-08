@@ -1,4 +1,3 @@
-auto.waitFor();
 var height = device.height;
 var width = device.width;
 toast("\n设备宽" + width + "\n" + "设备高" + height + "\n" + "手机型号" + device.model + "\n安卓版本" + device.release)
